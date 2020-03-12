@@ -1,0 +1,78 @@
+# Fill in, commit and push each day.
+# Group Member: Daniel Araiche
+Nov 2, 2016
+	Yesterday : 
+	Today     : 
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday :
+	Today     : Started the project. Fixed the circle tool
+	Obstacles : Understanding merge conflicts took some time, but in the end, I think I figured it out
+	
+Nov 8, 2016
+	Yesterday : Started the project and fixed the circle tool
+	Today     : Fixed Bug 2 so that each button is disabled when it's mode is in use, and implemented 
+				"new" and "exit" menu options
+	Obstacles : Tried to merge a piece of code with another that was very different and had to sort it all out.
+	
+Nov 9, 2016
+	Yesterday : Fixed Bugs and added some menu options
+	Today     : Implemented Colors and fixed the squiggle tool. Also made some minor edits and helped with some
+				other User Stories
+	Obstacles : Tried to fix the rectangle feedback and failed.
+
+Nov 10, 2016
+	Yesterday : 
+	Today     : 
+	Obstacles :
+	
+Nov 11, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 12, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 13, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 14, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 15, 2016
+	Yesterday :
+	Today     : Fixed Squiggle and added undo/redo
+	Obstacles : 
+	
+Nov 16, 2016
+	Yesterday : 
+	Today     : Added advanced color chooser
+	Obstacles : 

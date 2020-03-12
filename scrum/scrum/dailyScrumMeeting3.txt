@@ -1,0 +1,73 @@
+# Fill in, commit and push each day.
+# Group Member: Himank Sahni
+
+Nov 2, 2016
+	Yesterday :
+	Today     :day off
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :day off
+	Obstacles :Midterm today was really tired.
+ 
+Nov 4, 2016
+	Yesterday :     
+	Today     :day off
+	Obstacles : completing my linguistics and Math assignment.
+
+Nov 5, 2016
+	Yesterday :
+	Today     :It was my birthday.
+	Obstacles :My birthday.
+
+Nov 6, 2016
+	Yesterday :
+	Today     :day off
+	Obstacles :
+	
+Nov 7, 2016
+
+	Yesterday :took a day off.
+	Today     :Started working. Finished user stories of drawing shapes and started working on the shapes.
+	Obstacles :Logical thinking of where things go and how to make drawing shapes happen.
+
+Nov 8, 2016
+
+	Yesterday :I worked on rectangle shape and square shape.
+	Today     :I worked on the feedback of square and and rectangle feedback.And i started working on the changing
+				the color of the shape.
+	Obstacles : I had trouble setting the color of the shape.
+	
+Nov 9, 2016
+
+	Yesterday :I worked on the feedback of square and and rectangle feedback.And i started working on the changing
+				the color of the shape.
+	Today     : I worked on the Color shape today also but couldn't figure it out entirely so i ask my partner to help me.
+				and I worked on filling the color in the shape and completed it.
+	Obstacles : I had trouble setting the color of the shape.
+	
+Nov 13, 2016
+
+	Yesterday :
+	Today     : Worked on the command design pattern (Bug 2.1/Bug 2.2)
+	Obstacles : Polyline and squiggle were not working in command
+
+Nov 14, 2016
+
+	Yesterday : Worked on the command design pattern (Bug 2.1/Bug 2.2)
+	Today     : Created strategy design pattern for shapes
+	Obstacles : 
+
+Nov 15, 2016
+
+	Yesterday : Created strategy design pattern for shapes
+	Today     : Attempted to fix strategy and factory design pattern.
+	Obstacles : Couldn't get factory design pattern to work.
+
+Nov 16, 2016
+
+	Yesterday : Attempted to fix strategy and factory design pattern.
+	Today     : Fixed factory design pattern and fixing strategy design pattern.
+	Obstacles : 
+

@@ -1,0 +1,62 @@
+# Fill in, commit and push each day.
+# Group Member: Wei Te (Walter), Lin
+Nov 2, 2016
+	Yesterday :
+	Today     :day-off
+	Obstacles :struggling to get out of bed
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :day-off
+	Obstacles :struggling to stop watching netflix
+
+Nov 4, 2016
+	Yesterday :
+	Today     :day-off
+	Obstacles :I have a job
+
+Nov 5, 2016
+	Yesterday : 
+	Today     :day-off 
+	Obstacles :It's my friend's birthday  
+
+Nov 6, 2016
+	Yesterday :
+	Today     :day-off
+	Obstacles :I have to work
+	
+Nov 7, 2016
+	Yesterday :day-off
+	Today     :Met with everyone, assigned the parts
+	Obstacles :Hard to match time schedules
+	
+Nov 8, 2016
+	Yesterday :Met with everyone.
+	Today     :Finished circle feedback, putting icons onto the buttons. Worked on improving the architecture. Everyone has completed
+				some of their assigned parts.
+	Obstacles :Not very familiar with design patterns.
+	
+Nov 9, 2016
+	Yesterday :Finished some work.
+	Today     :Kept working on architecture stuff. But got stuck. 
+	Obstacles :Still, not really familiar with designing patterns. Got stuck.
+
+Nov 13, 2016
+	Yesterday :day-off
+	Today     :day-off
+	Obstacles :I have to work
+	
+Nov 14, 2016
+	Yesterday :day-off
+	Today     :Started on Bug 2.3 and Bug2.4
+	Obstacles :Struggles with connecting all the pieces
+	
+Nov 15, 2016
+	Yesterday :Worked
+	Today     :Kept working
+	Obstacles :Got stuck while connecting pieces
+	
+Nov 16, 2016
+	Yesterday :Worked
+	Today     :Kept working on architecture stuff. But got stuck. 
+	Obstacles :My teammates figured it out without telling me, left me nothing to learn.

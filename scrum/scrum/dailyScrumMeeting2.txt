@@ -1,0 +1,56 @@
+# Fill in, commit and push each day.
+# Group Member: Carlita Gomes
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday :
+	Today     : Finished polyline (UserStory 8).
+	Obstacles :
+	
+Nov 8, 2016
+	Yesterday : Finished polyline (UserStory 8).
+	Today     : Started Line Thickness Selector (UserStory7).
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday : Started Line Thickness Selector (UserStory7).
+	Today     : Continued Line Thickness Selector (UserStory7).
+	Obstacles : All shapes are affected by the line thickness, only new shapes should be.
+	
+Nov 14, 2016
+	Yesterday :
+	Today     : Fixed Bug 2.5 and 2.6.
+	Obstacles :
+
+Nov 15, 2016
+	Yesterday : Fixed Bug 2.5 and 2.6.
+	Today     : Added polyline to the command design pattern and fixed the thickness for polyline and squiggle
+	Obstacles : Could not get squiggle to work in the command design pattern
+
+Nov 16, 2016
+	Yesterday : Added polyline to the command design pattern and fixed the thickness for polyline and squiggle
+	Today     : Tried to fix strategy and factory design pattern. Added ShapeMouseListener class.
+	Obstacles : Couldn't get factory design pattern to work.
